@@ -1,0 +1,15 @@
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\bin\Debug\net6.0\Seminar_0002.exe
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\bin\Debug\net6.0\Seminar_0002.deps.json
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\bin\Debug\net6.0\Seminar_0002.runtimeconfig.json
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\bin\Debug\net6.0\Seminar_0002.dll
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\bin\Debug\net6.0\Seminar_0002.pdb
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\obj\Debug\net6.0\Seminar_0002.csproj.AssemblyReference.cache
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\obj\Debug\net6.0\Seminar_0002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\obj\Debug\net6.0\Seminar_0002.AssemblyInfoInputs.cache
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\obj\Debug\net6.0\Seminar_0002.AssemblyInfo.cs
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\obj\Debug\net6.0\Seminar_0002.csproj.CoreCompileInputs.cache
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\obj\Debug\net6.0\Seminar_0002.dll
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\obj\Debug\net6.0\refint\Seminar_0002.dll
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\obj\Debug\net6.0\Seminar_0002.pdb
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\obj\Debug\net6.0\Seminar_0002.genruntimeconfig.cache
+C:\Users\rissd\Documents\geekbrainsEducation\Seminar_0002\Ex_011\obj\Debug\net6.0\ref\Seminar_0002.dll
