@@ -16,4 +16,3 @@ void vivod (int a, int z) {
     Console.WriteLine("случайное число " + a);
     Console.WriteLine(z);
 }
-
