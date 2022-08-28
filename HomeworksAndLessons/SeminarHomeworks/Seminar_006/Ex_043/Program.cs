@@ -4,7 +4,7 @@
 
 double ArgumentEnter()
 {
-    double temporary = int.Parse(Console.ReadLine());
+    double temporary = double.Parse(Console.ReadLine());
     Console.WriteLine();
     return temporary;
 }
