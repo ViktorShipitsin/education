@@ -27,17 +27,16 @@ void PrintArray(int[,] arr)
 
 void PrintColArithmeticMean(int[,] arr)
 {
-    int arMean = 0;
     Console.WriteLine("Среднее арифметическое элементов в каждом столбце:");
     for (int col = 0; col < arr.GetLength(0); col++)
     {
+        int arMean = 0;
         for (int row = 0; row < arr.GetLength(1); row++)
         {
-            arMean = arMean + arr[row, col];
+            arMean += arr[row, col];
         }
         if (arMean >= 0) {Console.Write($" {arMean} ");}
         else {Console.Write($"{arMean} ");}
-        arMean = 0;
     }
 }
 

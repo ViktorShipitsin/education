@@ -23,7 +23,7 @@ void ArrayConsoleWrite(double[,] arr)
         Console.Write($"{arr[row, 0]} ");
     }
     Console.WriteLine();
-    for (int col = 0; col < arr.GetLength(0); col++)
+    for (int col = 0; col < arr.GetLength(1); col++)
     {
         Console.Write($"{arr[0, col]} ");
     }
@@ -45,7 +45,7 @@ string ConsoleText(string strText)
 
 int ValueEnter()
 {
-    int a = int.Parse(Console.ReadLine());
+    int a = int.Parse(Console.ReadLine()!);
     return a;
 }
 
