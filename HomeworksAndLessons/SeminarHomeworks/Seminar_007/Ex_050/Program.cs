@@ -8,7 +8,7 @@ int[,] NewFilledArray()
 
 int ArgumentEnter()
 {
-    int arg = int.Parse(Console.ReadLine());
+    int arg = int.Parse(Console.ReadLine()!);
     return arg;
 }
 
